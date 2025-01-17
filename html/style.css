@@ -1,0 +1,13 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.first-class {
+    color: green;
+    border: 1px solid red;
+}
+
+#secondId {
+    color: red;
+}
